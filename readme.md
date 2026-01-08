@@ -1,25 +1,31 @@
 # Overview
 
-Hello World example project
+Hello World project
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Description: 
 
-{Provide a description of your software}
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-Python
+Python: a great first programming language: 
 
-{Describe the programming language that you used}
+Beginner-friendly and readable: Python’s clean, English-like syntax makes it easy to learn and maintain, which speeds up development and reduces bugs.
+
+Versatile across domains: It’s widely used in web development, data science, AI/ML, automation, game development, and scientific computing.
+
+Huge ecosystem of libraries: Frameworks and libraries like Flask, Django, NumPy, Pandas, TensorFlow, and PyTorch let developers build powerful applications quickly.
+
+Great for automation and scripting: Python excels at automating repetitive tasks such as file handling, data processing, testing, and system administration.
+
+Strong community and support: A massive global community means excellent documentation, tutorials, and third-party tools are readily available. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python.org](https://www.python.org/)
+* [W3 Schools: Python Tutorial ](https://www.w3schools.com/python/)
+* [Online Python](https://www.python.org/)
