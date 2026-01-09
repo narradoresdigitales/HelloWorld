@@ -2,7 +2,7 @@
 
 Hello World project
 
-Description: 
+Description: this is a beginner friendly project that simply prints 'Hello World.' 
 
 
 
